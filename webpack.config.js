@@ -1,5 +1,5 @@
-var config = {
-    entry: './APP.jsx',
+ var config = {
+    entry: './app/APP.jsx',
     output: {
        path:'/',
        filename: 'transpiled.js',
